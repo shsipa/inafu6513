@@ -1,0 +1,60 @@
+Slide 1:
+Welcome to the labs.
+
+Slide 2:
+Data science is a process.   It’s based on science, which is all about finding patterns that fit our knowledge of the world.  In many ways, the “science” in data science follows the scientific method. 
+
+Slide 3:
+Sometimes the best way to understand data scientists is to go look at what they do. This is the Kaggle competition list last year (Kaggle is one of the largest data science competition sites).  Kaggle isn’t *all* that data scientists do - it focusses on the analysis and machine learning past of the process. 
+
+Slide 4:
+This is Drew Conway’s data science Venn diagram. It basically says that to be a data scientist, you need to know statistics, your business area and be able to code. 
+But it’s not quite like that. Many good data scientists don’t code at all, and you can build insightful visualisations without statistics.  In this course, we assume that you already have expertise in development and statistics: we’re going to concentrate more on familiarization with data science ideas and building up your coding skills.
+
+Slide 5:
+Yes, you need to learn a bunch of theory, but there’s nothing like learning data science by doing it: you’ll handle issues you didn’t know existed, and learn many details about techniques by using them on non-sanitised data. 
+
+Slide 6:
+Doing all the data science tasks on a project isn’t for everyone, and many data scientists are now working in teams, each of member of which may have different specialisations.  One of these specialisations is the data science business analyst - someone who can work with stakeholders to work out the right questions to be asked using data, and understand the nuances of communication, interpretation and issues like privacy and security. 
+
+Slide 7:
+This is what we’ll do each week. 
+
+Slide 8:
+This is what you need to do between labs (having fun is optional, but much recommended).
+
+Slide 9:
+The labs are designed to cover most of what you need to talk to data scientists, to specify your project, and to start exploring data science on your own.  They’re specifically aimed at the types of issues that you’ll see in the messy strange world of development, humanitarian and social data. 
+
+Slide 10:
+The labs are grouped by theme.  Why don’t we do them in this order?  Because we want you to have some breathing space between the more difficult topics, and we want you to be able to do useful things as early in the course as possible.
+
+Slide 11:
+This toolset was chosen so you can still do something useful when you have no internet / have low bandwidth. There are many other tools out there if you have the bandwidth to run then, but at some point in your career you’ll find yourself somewhere like Arusha in Tanzania, desperately hoping that the page you need will load.  We’ve based this toolkit on trying to minimise that experience.
+
+Slide 12:
+We’ll use this process as the backbone of what we do on a data science project. 
+
+Slide 13:
+We’ll cover the basics of Python, R and related concepts.  The aim is to a) get you some useful tools, and b) not have you scared by something that looks like this. 
+
+Slide 14:
+We’ll be keeping a list of interesting datasets. You’ll learn how to get data out of places like datamarts, websites, social media and PDFs. You’ll also learn how to use text and maps as data
+
+Slide 15:
+Data is always dirty. We’ll cover cleaning tools and techniques.
+
+Slide 16:
+We’ll look at how to learn relationships between numbers, categories and graphs.
+
+Slide 17:
+We want to get this effect: ”I already knew that increased incarceration didn’t lower crime, but I wasn’t sure of the statistics. To see it on the graphs is really eye opening.” (Pandey et al, The Persuasive Power of Data Visualisation) – using whatever’s appropriate (which might or might not be visualisations)
+
+Slide 18:
+We’ll cover how to handle data with high volume, velocity, variety and veracity.
+
+Slide 19:
+If you can do this with data, you’ve won.
+
+Slide 20:
+You don’t have to install *all* the tools at once: just start with the tools for week 1 of class.  And don’t worry if this doesn’t work smoothly: email us, or come to the office hours session, and we’ll work it out with you.
